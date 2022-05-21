@@ -9,7 +9,7 @@ void main() {
         backgroundColor: Colors.blueGrey[900],
       ),
       body: Center(
-        child: Image.network('https://www.cameraegg.org/wp-content/uploads/2015/06/canon-powershot-g3-x-sample-images-1.jpg',),
+        child: Image(image:AssetImage('images/diamond.png'),),
       ),
     ),
   ));
