@@ -18,3 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 ## How to add app icon?
 Use the following website `https://appicon.co/` to generate icons for various devices. Then copy 
 the generated icons to the `res/` folder in android project.
+
+## Useful resource for photos, icons, illustrations, AIs, music, lunacy, blog
+`https://icons8.com/`
+
+## Another useful website for designing
+`https://www.canva.com/`
